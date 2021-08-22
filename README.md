@@ -1,2 +1,2 @@
 # hello-world-2
-The second repository
+Natsu Dragneel: “Don't give up, the beginning is always the hardest...”
